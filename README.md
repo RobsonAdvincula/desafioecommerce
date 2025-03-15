@@ -23,7 +23,7 @@ Cada fornecedor pode disponibilizar vários produtos.
 Produto
 
 Itens disponíveis para venda, podendo ser vendidos por fornecedores diretos ou terceiros.
-Um produto pode estar associado a múltiplos vendedores (marketplace).
+Um produto pode estar associado a múltiplos vendedores.
 Estoque
 
 Controla a quantidade de produtos disponíveis e seus locais de armazenamento.
