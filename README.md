@@ -1,4 +1,4 @@
-# desafioecommerce
+# Desafio ecommerce
 Entrega do desafio curso da DIO
 Projeto Conceitual - E-commerce
 Visão Geral
