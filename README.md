@@ -1,5 +1,6 @@
 # Desafio ecommerce
 Entrega do desafio curso da DIO
+
 Projeto Conceitual - E-commerce
 Visão Geral
 Este projeto modela um sistema de e-commerce que gerencia clientes, fornecedores, produtos, pedidos, pagamentos e entregas. O objetivo é garantir um fluxo eficiente de compras online, permitindo múltiplas formas de pagamento, controle de estoque e rastreamento de entregas.
